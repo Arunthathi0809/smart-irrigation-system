@@ -1,6 +1,6 @@
 # smart-irrigation-system
 The project is based on the Agriculture irrigation system management using Embedded system
-# 🌱 Smart Irrigation System (Without IoT)
+# 🌱 Smart Irrigation System 
 
 A smart irrigation system developed using Arduino to optimize water usage and automate irrigation without internet connectivity.
 
